@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhv1501
 - 👀 I’m interested in Web/Android development
-- 🌱 I’m currently learning Flutter and React.js 
+- 🌱 I’m currently learning Node.js and React.js 
 - 📫 rhv4748@gmail.com
 
 <!---
