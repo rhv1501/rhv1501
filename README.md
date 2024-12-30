@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhv1501
-- 👀 I’m interested in Web/Android development
-- 🌱 I’m currently learning Node.js and React.js 
+- 👀 I’m interested in Web/Android development And DSA
+- 🌱 Mern stack developer, Java developer.
 - 📫 rhv4748@gmail.com
 
 <!---
