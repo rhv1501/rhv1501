@@ -23,12 +23,6 @@ I'm a passionate **Full-Stack Web & Android Developer** with a strong foundation
 - **DevOps & Tools:** Docker, Git, GitHub, VS Code, Postman, Android Studio, Figma
 - **Operating Systems:** Linux (Ubuntu, Arch-based)
 
-## 📊 GitHub Stats
-
-![Rudresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhv1501&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhv1501&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhv1501&theme=radical)
-
 ## 📂 Projects
 
 I've built a variety of projects as part of my learning journey — from full-stack web apps to mobile applications.  
