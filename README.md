@@ -32,7 +32,9 @@ I'm a passionate **Full-Stack Web & Android Developer** with a strong foundation
 ## 📂 Projects
 
 I've built a variety of projects as part of my learning journey — from full-stack web apps to mobile applications.  
-Visit the repositories below to dive into the code and explore their features!
+Visit my repositories to dive into the code and explore their features.
+
+[![View My GitHub Repos](https://img.shields.io/badge/GitHub-Repositories-181717?logo=github&style=for-the-badge)](https://github.com/rhv1501?tab=repositories)
 
 > **Note:** I'm actively updating and maintaining these projects, so stay tuned for more!
 
