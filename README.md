@@ -42,7 +42,7 @@ I enjoy turning ideas into reality with clean, maintainable code and beautiful u
 - **DevOps & Productivity:**  
   Docker, Git, GitHub, VS Code, Postman, Android Studio, Figma  
 - **Operating Systems:**  
-  Linux (Ubuntu, Arch-based)
+  Linux (Ubuntu,Fedora,Arch-based)
 
 ---
 
